@@ -2,7 +2,7 @@
 """
 	@script-author: Jyothi Tom, Vikram Shakthi
 	@script-description: Python code to build classification models to predict the risk of extreme birth weight values.   
-    @script-details: Written in Google Colaboratory.
+    	@script-details: Written in Google Colaboratory.
 
 """
 
